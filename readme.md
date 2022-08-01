@@ -1,1 +1,1 @@
-EDA from kaggle
+workы on data from kaggle
