@@ -1,1 +1,1 @@
-workы on data from kaggle
+works on data from kaggle
